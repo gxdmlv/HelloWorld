@@ -8,12 +8,12 @@ public class HelloWorld {
 
 
     private int st;
-
+private String str = "123";//update in fix		
 
     public static void main(String[] args) {
        new HelloWorld().method();
 
-        System.out.println("1");
+        System.out.println("2");//update in master
     }
 
 
